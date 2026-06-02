@@ -1,2 +1,2 @@
 # alias.lua
-Alias system for FiveM
+// Alias system for FiveM
